@@ -1,19 +1,5 @@
-# 備忘録的なやつ
+# 備忘録的なやつのサイト
 
 * HelloWould
 
-
-リポジトリにプッシュする方法
-
-・vim [ファイル名.拡張子]
-*JavaならEclipseなどで編集する
-
-・エディタが立ち上がるので内容を編集して[:wq]コマンドで保存して終了
-
-・git add ファイル名.拡張子または　git add *
-
-・git commit -m "titlingls"またはファイル名.拡張子
-
-・git push
-
-一応こんな感じで編集できる。
+file://file-svr/%E5%AD%A6%E7%94%9F%E7%94%A8/S1A1/S1A117/HTML%20git/%E5%82%99%E5%BF%98%E9%8C%B2.html
