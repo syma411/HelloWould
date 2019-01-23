@@ -11,6 +11,8 @@
 
 
  * ローカルリポジトリの作り方は後日記述
-
-
- * ども
+---
+* pushしたときに  
+  <font color = "Red">Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)</font>  
+  みたいなやつがでてきたら<p class= "info">git push origin</p>でローカルとリモートのコミットを一致させる必要がある
