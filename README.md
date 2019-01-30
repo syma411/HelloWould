@@ -10,7 +10,7 @@
  | 3. git push     |  リモートリポジトリ(github)に出力することができる
 
 
-* ローカルリポジトリの作り方は後日記述
+* ＊ローカルリポジトリの作り方は後日記述
 ---
 * pushしたときに  
   Your branch is ahead of 'origin/master' by 2 commits.
